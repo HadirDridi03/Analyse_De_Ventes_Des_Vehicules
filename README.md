@@ -35,10 +35,10 @@ Le dataset contient les commandes, les produits (Classic Cars, Motorcycles, Plan
 
 Voici un aperçu du dashboard Power BI :  
 
-![Tableau De Bord](<img width="1160" height="652" alt="image" src="https://github.com/user-attachments/assets/4205a95d-cc1b-44b2-a2fd-74de1978703c" />
-)  
-![Les Details](<img width="1161" height="658" alt="image" src="https://github.com/user-attachments/assets/b8f8d706-ff72-4166-9a1e-9e19c2e09cdc" />
-)  
+<img width="1160" height="652" alt="image" src="https://github.com/user-attachments/assets/4205a95d-cc1b-44b2-a2fd-74de1978703c" />
+  
+<img width="1161" height="658" alt="image" src="https://github.com/user-attachments/assets/b8f8d706-ff72-4166-9a1e-9e19c2e09cdc" />
+
 
 
 
