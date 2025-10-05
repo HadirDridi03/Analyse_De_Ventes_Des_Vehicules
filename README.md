@@ -45,8 +45,3 @@ Voici un aperçu du dashboard Power BI :
 
 ---
 
-## 🗂 Contenu du dépôt
-
-
-## Contenu du dépôt
-
